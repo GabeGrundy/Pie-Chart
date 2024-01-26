@@ -69,5 +69,8 @@ txtNumber1.grid(row=1,column=1)
 
 
 
+
+
+
 #build window
 window.mainloop()
